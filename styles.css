@@ -19,6 +19,7 @@ model-viewer {
     position: absolute;
     /*bottom: 16px;*/
     left: 16px;
+    top: 16px;
     max-width: unset;
     transform: unset;
 }
@@ -30,7 +31,7 @@ model-viewer {
     color: rgba(0, 0, 0, 0.8);
     display: block;
     font-family: Futura, Helvetica Neue, sans-serif;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 700;
     max-width: 128px;
     overflow-wrap: break-word;
