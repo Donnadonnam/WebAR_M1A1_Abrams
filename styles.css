@@ -17,7 +17,7 @@ model-viewer {
 
 #controls {
     position: absolute;
-    bottom: 16px;
+    /*bottom: 16px;*/
     left: 16px;
     max-width: unset;
     transform: unset;
