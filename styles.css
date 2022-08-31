@@ -96,7 +96,7 @@ model-viewer {
 }
 
 #ar-button:active {
-  background-color: #E8EAED;
+  background-color: none;
 }
 
 #ar-button:focus {
