@@ -27,7 +27,7 @@ model-viewer {
 }
 
 
-.img-responsive {
+.cwm-logo-responsive {
     position: relative;
     left: 50%;
     transform: translate(-50%, 0);
@@ -35,6 +35,16 @@ model-viewer {
     -webkit-transform: translate(-50%, 0);
     width: 100px;
     margin-top: 15px;
+}
+
+.tank_codename-responsive {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    width: 100px;
+    margin-top: 40px;
 }
 
 .dim{
