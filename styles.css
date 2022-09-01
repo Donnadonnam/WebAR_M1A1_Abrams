@@ -47,6 +47,32 @@ model-viewer {
     margin-top: 40px;
 }
 
+.cwm-banner-responsive {
+    bottom: 30px;
+    width: 50%;
+    display: block;
+    width: 90%;
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.cwm-frame-responsive {
+    bottom: 30px;
+    width: 50%;
+    display: block;
+    width: 90%;
+    position: absolute;
+    top: 96%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
 .dim{
     background: #fff;
     border-radius: 4px;
