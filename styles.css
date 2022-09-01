@@ -26,6 +26,15 @@ model-viewer {
     transform: unset;
 }
 
+
+.img-responsive {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+}
+
 .dim{
     background: #fff;
     border-radius: 4px;
