@@ -61,7 +61,7 @@ model-viewer {
     display: block;
     width: 90%;
     position: absolute;
-    top: 93%;
+    top: 92%;
     left: 50%;
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
