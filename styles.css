@@ -79,7 +79,7 @@ model-viewer {
     max-width: 240px;
     position: absolute;
     margin-left: -10px;
-    top: -10%;
+    top: -20%;
 }
 
 .dim{
@@ -87,7 +87,7 @@ model-viewer {
     color: rgba(255, 255, 255, 1);
     display: block;
     font-family: Futura, Helvetica Neue, sans-serif;
-    font-size: 12px;
+    font-size: 9px;
     font-weight: 700;
     max-width: 128px;
     overflow-wrap: break-word;
