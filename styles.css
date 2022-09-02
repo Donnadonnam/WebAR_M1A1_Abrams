@@ -147,6 +147,7 @@ model-viewer {
   line-height: 36px;
   border-radius: 0;
   border: 1px solid #ffffff;
+  bottom: 40%;
 }
 
 #ar-button:active {
