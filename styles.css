@@ -77,6 +77,9 @@ model-viewer {
 
 .cwm-border-responsive {
     max-width: 240px;
+    position: absolute;
+    margin-left: -10px;
+    top: -10%;
 }
 
 .dim{
