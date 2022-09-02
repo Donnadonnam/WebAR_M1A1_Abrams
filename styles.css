@@ -86,6 +86,7 @@ model-viewer {
     position: absolute;
     margin-left: -10px;
     top: -10%;
+    left: -10px;
 }
 
 .dim{
