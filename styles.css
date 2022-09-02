@@ -23,12 +23,13 @@ model-viewer {
 }
 
 #controls {
-    position: absolute;
-    /*bottom: 16px;*/
-    left: 16px;
-    top: 16px;
+    position: relative;
+    top: 20px;
     max-width: unset;
     transform: unset;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
